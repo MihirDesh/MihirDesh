@@ -9,6 +9,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,3 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Key Skills
+-Programming Languages : C++, Java, Python
+-Web Technologies : HTML5, CSS3, React, NodeJS
+-Databases : MongoDB
+-Frameworks and Libraries : Express.js
+-DevOps : Amazon Web Services(AWS), Azure, Docker
+
+## Get In Touch
+Email : <mihirdesh23@gmail.com>
+LinkedIn : <https://www.linkedin.com/in/mihirdesh/>
