@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3> :computer: Languages, Frameworks and Tools </h3>
+<p><h3> :computer: Languages, Frameworks and Tools </h3>
 -Programming Languages : C++, Java, Python <br/>
 -Web Technologies : HTML5, CSS3, React, NodeJS <br/>
 -Databases : MongoDB <br/>
 -Frameworks and Libraries : Express.js <br/>
--DevOps : Amazon Web Services(AWS), Azure, Docker <br/>
+-DevOps : Amazon Web Services(AWS), Azure, Docker <br/></p>
 
-<h3>	:incoming_envelope: Get In Touch </h3>
+<p><h3>	:incoming_envelope: Get In Touch </h3>
 Email : <mihirdesh23@gmail.com> <br/>
-LinkedIn : <https://www.linkedin.com/in/mihirdesh/> <br/>
+LinkedIn : <https://www.linkedin.com/in/mihirdesh/> <br/></p>
