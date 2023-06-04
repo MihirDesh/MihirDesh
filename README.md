@@ -3,7 +3,7 @@
 
 
 # Hi, I'm Mihir 👋
-### Full Stack Web Developer(MERN) with a deep-seated enthusiasm towards NLP and Cloud Computing.
+### Full Stack Web Developer(MERN) with a deep-seated interest in NLP and Cloud Computing.
 <!--
 **MihirDesh/MihirDesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Key Skills
+## :computer: Key Skills
 -Programming Languages : C++, Java, Python <br/>
 -Web Technologies : HTML5, CSS3, React, NodeJS <br/>
 -Databases : MongoDB <br/>
 -Frameworks and Libraries : Express.js <br/>
 -DevOps : Amazon Web Services(AWS), Azure, Docker <br/>
 
-## Get In Touch
-Email : <mihirdesh23@gmail.com>
-LinkedIn : <https://www.linkedin.com/in/mihirdesh/>
+## 	:incoming_envelope: Get In Touch
+Email : <mihirdesh23@gmail.com> <br/>
+LinkedIn : <https://www.linkedin.com/in/mihirdesh/> <br/>
