@@ -5,7 +5,7 @@
 
 
                                                           ### Hi, I'm Mihir 👋
-                              Full Stack Web Developer(MERN) with a deep-seated interest in NLP and Cloud Computing
+
 <!--
 **MihirDesh/MihirDesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
