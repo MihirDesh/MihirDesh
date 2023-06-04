@@ -2,7 +2,7 @@
 
 
 
-
+![code-coffee-computer-computer-screen-wallpaper-preview](https://github.com/MihirDesh/MihirDesh/assets/34931141/ef79c2c2-bd4b-425d-b76a-fc374222244e)
 
 ### Hi, I'm Mihir 👋
 
