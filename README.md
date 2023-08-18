@@ -69,7 +69,10 @@
   
 
 <br/>  
+### Contributions:
 
+![snake gif](https://github.com/MihirDesh/MihirDesh/blob/output/github-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/MihirDesh/MihirDesh/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MihirDesh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
