@@ -76,7 +76,9 @@
 
 <br/>  
 
-
+### Contributions:
+![snake gif](https://github.com/MihirDesh/MihirDesh/blob/output/github-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/MihirDesh/MihirDesh/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 ## Recent Blog Posts  
   
