@@ -14,7 +14,7 @@ jobs:
       - uses: Platane/snk@v2
         id: snake-gif
         with:
-          github_user_name: RohanDoshi21
+          github_user_name: MihirDesh
 #           svg_out_path: dist/github-contribution-grid-snake.svg
           outputs: |
             dist/github-snake.svg
