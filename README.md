@@ -65,10 +65,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MihirDesh/MihirDesh/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Connect with me</h2>
 
 ###
