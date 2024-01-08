@@ -6,7 +6,7 @@
 # <div align="center">Hi, I'm Mihir👋</div>  
   
 
-### <div align="center">Full Stack Web Developer(MERN) with a deep-seated interest in NLP and Cloud Computing.</div>  
+### <div align="center">Full Stack Web Developer(MERN) with a deep-seated interest in Machine Learning and Cloud Computing.</div>  
   
 
 <br/>  
